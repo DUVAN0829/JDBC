@@ -60,4 +60,5 @@ public class Producto {
                 ", fechaRegistro=" + fechaRegistro +
                 '}';
     }
+    
 }
